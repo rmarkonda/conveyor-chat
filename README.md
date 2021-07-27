@@ -1,2 +1,2 @@
 # conveyor-chat
-conveyor chat app using nodejs and aws
+conveyor chat app using nodejs and aws.
