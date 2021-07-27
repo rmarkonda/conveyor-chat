@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-conveyorchat-dev-114246-authRole",
+            "UnauthRoleArn": "arn:aws:iam::901859916330:role/amplify-conveyorchat-dev-114246-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::901859916330:role/amplify-conveyorchat-dev-114246-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-conveyorchat-dev-114246-deployment",
+            "UnauthRoleName": "amplify-conveyorchat-dev-114246-unauthRole",
+            "StackName": "amplify-conveyorchat-dev-114246",
+            "StackId": "arn:aws:cloudformation:us-east-2:901859916330:stack/amplify-conveyorchat-dev-114246/ac7d43d0-eef9-11eb-b962-0a7769755218",
+            "AmplifyAppId": "d13piavov1njh1"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d13piavov1njh1",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
